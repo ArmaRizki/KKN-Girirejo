@@ -192,7 +192,7 @@ const footer = () => {
         </div>
       </div>
       <p className="text-xs text-white bg-light-blue py-2 mt-3 xl:mt-0">
-        Developed by Tim KKN-PPM UGM - Saujana Ngablak 2023
+        Dikembangkan oleh Tim KKN-PPM UGM Saujana Ngablak 2024
       </p>
     </footer>
   );
