@@ -16,11 +16,12 @@ export default function Budaya() {
         link="/"
       />
       <main className="overflow-hidden">
+        <Budaya5 />
+        <Budaya4 />
         <Budaya1 />
         <Budaya2 />
         <Budaya3 />
-        <Budaya4 />
-        <Budaya5 />
+
       </main>
     </>
   );
