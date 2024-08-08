@@ -69,7 +69,7 @@ const Budaya5 = () => {
                 Wisata Budaya
               </div>
               <div className="font-bold text-xl text-left mb-2 xl:hidden">
-                Wahyu Sabdo Budoyo
+                Pawai Taaruf
               </div>
               {/* <div className="rounded-xl bg-[#FFFDEC] text-justify p-3 mb-3 xl:hidden">
                 <p className="text-light-blue font-bold">
