@@ -54,7 +54,7 @@ const Budaya1 = () => {
   const isDesktop = width > 640;
 
   return (
-    <div className="items-center bg-basic pt-24 pb-12 px-8 xl:px-24">
+    <div className="items-center bg-basic pt-4 pb-12 px-8 xl:px-24">
       <div className="">
         <div
           className="relative text-light-blue items-center text-base"
@@ -64,9 +64,7 @@ const Budaya1 = () => {
         >
           <div className="pointer-events-none">
             <div className="mt-1 sm:gap-1.5 md:gap-1 xl:gap-1 mobile:gap-1.5">
-              <div className="font-black text-light-blue font-Satisfy text-2xl sm:text-3xl text-center xl:text-4xl mb-3">
-                Wisata Budaya
-              </div>
+
               <div className="font-bold text-xl text-left mb-2 xl:hidden">
                 Andong Jinawi
               </div>

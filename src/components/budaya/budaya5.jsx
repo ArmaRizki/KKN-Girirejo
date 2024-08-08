@@ -32,7 +32,7 @@ const Budaya5 = () => {
         },
       },
       {
-        breakpoint: 600,
+        breakpoint: 1000,
         settings: {
           slidesToShow: 1,
           slidesToScroll: 1,
@@ -55,7 +55,7 @@ const Budaya5 = () => {
   const isDesktop = width > 640;
 
   return (
-    <div className="items-center bg-basic pt-8 pb-12 px-8 xl:px-24">
+    <div className="items-center bg-basic pt-24 pb-12 px-8 xl:px-24">
       <div className="">
         <div
           className="relative text-light-blue items-center text-base"
@@ -65,9 +65,9 @@ const Budaya5 = () => {
         >
           <div className="pointer-events-none">
             <div className="mt-1 sm:gap-1.5 md:gap-1 xl:gap-1 mobile:gap-1.5">
-              {/* <div className="font-black text-light-blue font-Satisfy text-2xl sm:text-3xl text-center xl:text-4xl mb-3">
+            <div className="font-black text-light-blue font-Satisfy text-2xl sm:text-3xl text-center xl:text-4xl mb-3">
                 Wisata Budaya
-              </div> */}
+              </div>
               <div className="font-bold text-xl text-left mb-2 xl:hidden">
                 Wahyu Sabdo Budoyo
               </div>
