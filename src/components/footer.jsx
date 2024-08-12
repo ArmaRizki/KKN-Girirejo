@@ -38,32 +38,32 @@ const footer = () => {
                 <img
                   src={Logo_ugm}
                   alt=""
-                  className="transition-all h-[100px] ml-3 xl:hidden xl:h-28"
+                  className="transition-all h-[50px] ml-3 xl:hidden xl:h-12"
                 />
                 <img
                   src={Logo_ugm}
                   alt=""
-                  className=" hidden transition-all ml-3 xl:inline-flex xl:h-28"
+                  className=" hidden transition-all ml-3 xl:inline-flex xl:h-12"
                 />
                 <img
                   src={Logo_kkn}
                   alt=""
-                  className=" hidden transition-all ml-3 xl:inline-flex xl:h-28"
+                  className=" hidden transition-all ml-3 xl:inline-flex xl:h-12"
                 />
                 <img
                   src={Logo_kkn}
                   alt=""
-                  className="transition-all h-[100px] ml-3 xl:hidden xl:h-28 xl:scale-[1.4]"
+                  className="transition-all h-[50px] ml-3 xl:hidden xl:h-12 xl:h-12"
                 />
                 <img
                   src={Logo}
                   alt=""
-                  className="transition-all xl:hidden ml-3 xl:h-28"
+                  className="transition-all h-[50px] xl:hidden ml-3 xl:h-12"
                 />
                 <img
                   src={logo}
                   alt=""
-                  className=" hidden transition-all xl:inline-flex xl:h-28"
+                  className=" hidden transition-all ml-3 xl:inline-flex xl:h-12"
                 />
                 <span className="hidden">
                   <p className="">
@@ -143,21 +143,6 @@ const footer = () => {
             <div className="flex flex-col text-base xl:text-lg text-white gap-2 xl:my-6">
               <div className="flex flex-col gap-2">
                 <p className="font-bold">Hubungi Kami</p>
-                <a
-                  href={"https://wa.me/6281392136199"}
-                  rel="noreferrer"
-                  target="_blank"
-                  className="group w-fit transition-colors hover:text-yellow-500"
-                >
-                  <FontAwesomeIcon
-                    icon={faWhatsapp}
-                    color="white"
-                    size="1x"
-                    className="transition-all  group-hover:text-yellow-500"
-                  ></FontAwesomeIcon>{" "}
-                  Whatsapp
-                  <p>(+62)813-9213-6199 (Priyo)</p>
-                </a>
                 <a
                   href={"mailto:dsgirirejongablak@gmail.com"}
                   rel="noreferrer"

@@ -9,7 +9,7 @@ const Homepage = () => {
 
   return (
     <>
-      <div className="bg-center bg-cover h-screen bg-pemandangan-1 opacity-60"></div>
+      <div className="bg-center bg-cover h-screen bg-pemandangan-1 opacity-100"></div>
       <div
         className="container absolute flex flex-col items-center w-full top-1/2 transform -translate-y-1/2 px-16 text-[#374259]"
       >
@@ -18,8 +18,8 @@ const Homepage = () => {
           <br />
           DI DESA GIRIREJO
         </p>
-        <p className="text-center sm:text-lg md:text-xl text-basic bg-light-blue bg-opacity-90 p-3 rounded-2xl">
-          Jelajahi pesona alam dan hasil bumi Girirejo.
+        <p className="text-center sm:text-lg md:text-xl text-basic">
+        Jelajahi pesona wisata alam, budaya, dan hasil bumi unggulan Desa Girirejo.
         </p>
       </div>
     </>

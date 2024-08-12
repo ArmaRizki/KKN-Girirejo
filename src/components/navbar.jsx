@@ -1,7 +1,7 @@
 import { Link, NavLink } from "react-router-dom";
 import React, { useState } from "react";
 import Logo from "../assets/logo-saujana.svg";
-import logo from "../assets/logo-saujana2.png";
+import logo from "../assets/logo-saujana.png";
 import "./navbar.css";
 import { CSSTransition } from "react-transition-group";
 import { Divide as Hamburger } from "hamburger-react";
